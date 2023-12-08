@@ -1,0 +1,40 @@
+{
+    "translation": {
+        "welcome": "Herkese merhaba",
+        "fact": [
+            {
+                "title": "Benzinli veya dizel araçların kullanımı",
+                "description": "Fosil yakıt kullanan araç kullanmak, başta CO2 olmak üzere sera gazı emisyonlarının ana kaynaklarından biridir."
+            },
+            {
+                "title": "Aşırı enerji tüketimi",
+                "description": "Evlerde elektriğin özellikle ısıtma ve soğutma amaçlı aşırı kullanımı önemli miktarda enerji tüketimine katkıda bulunmaktadır. Elektriğin fosil yakıtlardan üretilmesi durumunda bu özellikle sorunludur."
+            },
+            {
+                "title": "Yemek atıkları",
+                "description": "Gıda atığı yalnızca bir atık yönetimi sorunu değil, aynı zamanda özellikle gıdaların çöplüklerde ayrıştığı durumlarda sera gazı kaynağı da oluyor."
+            },
+            {
+                "title": "Kırmızı et tüketimi",
+                "description": "Özellikle kırmızı et için hayvan yetiştirmek, güçlü bir sera gazı olan metan emisyonlarına önemli bir katkıda bulunuyor. Hayvancılık aynı zamanda büyük miktarda toprak, su ve enerji gerektirir"
+            },
+            {
+                "title": "Tek kullanımlık plastik kullanımı",
+                "description": "Plastiklerin, özellikle de tek kullanımlık plastiklerin üretimi ve imhası çok fazla enerji gerektirir ve çevre kirliliğine katkıda bulunur."
+            },
+            {
+                "title": "Su kaynaklarının kötü kullanımı",
+                "description": "Uzun süreli duş almak veya suyun gereksiz yere akmasına izin vermek gibi verimsiz su kullanımı, su arıtma ve ulaşım için enerji talebini artırabilir."
+            },
+            {
+                "title": "Sürdürülebilir olmayan satın almalar ",
+                "description": "Ömrü kısa olan veya sürdürülemez bir şekilde üretilen ürünleri satın almak, ürünlerin üretimi, nakliyesi ve imhası nedeniyle daha büyük bir karbon ayak izine katkıda bulunur."
+            },
+            {
+                "title": "Geri dönüşümsüz",
+                "description": "Geri dönüşümün veya kompostlamanın yapılmaması, çöplüklere gönderilen atık miktarını artırabilir; bu atıklar ayrışırken sera gazları üretir."
+            }
+        ],
+        "wakeup": "Pour lutter contre le changement climatique, il est important de prendre conscience de ces habitudes et de chercher des moyens de les modifier pour réduire notre impact environnemental. Cela peut inclure des actions telles que l'utilisation des transports en commun, la réduction de la consommation de viande, le recyclage, l'achat de produits durables, et la réduction du gaspillage d'énergie et d'eau."
+    }
+}

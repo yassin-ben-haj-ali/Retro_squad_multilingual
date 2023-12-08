@@ -1,0 +1,41 @@
+{
+    "translation": {
+        "welcome": "Hello everyone",
+        "fact": [
+            {
+                "title": "Utilisation de véhicules à essence ou diesel",
+                "description": "La conduite de véhicules utilisant des carburants fossiles est l'une des principales sources d'émissions de gaz à effet de serre, en particulier de CO2."
+            },
+            {
+                "title": "Consommation excessive d'énergie",
+                "description": "L'utilisation excessive d'électricité dans les foyers, notamment pour le chauffage et la climatisation, contribue à une consommation énergétique importante. Cela est particulièrement problématique si l'électricité est produite à partir de combustibles fossiles."
+            },
+            {
+                "title": "Gaspillage alimentaire",
+                "description": "Le gaspillage alimentaire n'est pas seulement un problème de gestion des déchets, mais aussi une source de gaz à effet de serre, en particulier lorsque les aliments se décomposent dans les décharges."
+            },
+            {
+                "title": "Consommation de viande rouge",
+                "description": "L'élevage de bétail, en particulier pour la viande rouge, est un contributeur majeur aux émissions de méthane, un gaz à effet de serre puissant. L'élevage nécessite également de grandes quantités de terres, d'eau et d'énergie"
+            },
+            {
+                "title": "Utilisation de plastiques à usage unique",
+                "description": "La production et l'élimination de plastiques, en particulier ceux à usage unique, nécessitent beaucoup d'énergie et contribuent à la pollution environnementale"
+            },
+            {
+                "title": "Mauvaise utilisation des ressources en eau",
+                "description": "Une utilisation inefficace de l'eau, comme les longues douches ou le fait de laisser couler l'eau inutilement, peut augmenter la demande en énergie pour le traitement et le transport de l'eau"
+            },
+            {
+                "title": "Achats non durables ",
+                "description": "Acheter des produits avec une courte durée de vie ou fabriqués de manière non durable contribue à une plus grande empreinte carbone, en raison de la production, du transport et de l'élimination des produits"
+            },
+            {
+                "title": "Non-recyclage",
+                "description": "Ne pas recycler ou composter peut augmenter la quantité de déchets envoyés dans les décharges, ce qui génère des gaz à effet de serre lors de leur décomposition"
+            }
+        ],
+        "wakeup": "Pour lutter contre le changement climatique, il est important de prendre conscience de ces habitudes et de chercher des moyens de les modifier pour réduire notre impact environnemental. Cela peut inclure des actions telles que l'utilisation des transports en commun, la réduction de la consommation de viande, le recyclage, l'achat de produits durables, et la réduction du gaspillage d'énergie et d'eau."
+
+    }
+}

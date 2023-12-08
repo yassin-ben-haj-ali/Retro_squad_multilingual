@@ -1,0 +1,41 @@
+{
+    "translation": {
+        "welcome": "Buenos días a todos",
+        "fact": [
+            {
+                "title": "Verwendung von Benzin- oder Dieselfahrzeugen",
+                "description": "Das Fahren von Fahrzeugen mit fossilen Brennstoffen ist eine der Hauptquellen für Treibhausgasemissionen, insbesondere CO2."
+            },
+            {
+                "title": "Übermäßiger Energieverbrauch",
+                "description": "Der übermäßige Stromverbrauch in Haushalten, insbesondere zum Heizen und Kühlen, trägt zu einem erheblichen Energieverbrauch bei. Dies ist insbesondere dann problematisch, wenn der Strom aus fossilen Brennstoffen erzeugt wird."
+            },
+            {
+                "title": "Lebensmittelverschwendung",
+                "description": "Lebensmittelabfälle sind nicht nur ein Problem der Abfallwirtschaft, sondern auch eine Quelle von Treibhausgasen, insbesondere wenn Lebensmittel auf Mülldeponien zersetzt werden."
+            },
+            {
+                "title": "Verzehr von rotem Fleisch",
+                "description": "Die Viehhaltung, insbesondere die Produktion von rotem Fleisch, trägt maßgeblich zum Ausstoß von Methan bei, einem starken Treibhausgas. Auch die Viehwirtschaft benötigt große Mengen Land, Wasser und Energie"
+            },
+            {
+                "title": "Verwendung von Einwegkunststoffen",
+                "description": "Die Herstellung und Entsorgung von Kunststoffen, insbesondere von Einwegkunststoffen, erfordert viel Energie und trägt zur Umweltverschmutzung bei"
+            },
+            {
+                "title": "Schlechte Nutzung der Wasserressourcen",
+                "description": "Eine ineffiziente Wassernutzung, wie z. B. langes Duschen oder unnötiges Laufenlassen von Wasser, kann den Energiebedarf für die Wasseraufbereitung und den Wassertransport erhöhen"
+            },
+            {
+                "title": "Nicht nachhaltige Einkäufe",
+                "description": "Der Kauf von Produkten mit kurzer Lebensdauer oder nicht nachhaltiger Herstellung trägt aufgrund der Produktion, des Transports und der Entsorgung der Produkte zu einem größeren CO2-Fußabdruck bei"
+            },
+            {
+                "title": "Nicht recycelbar",
+                "description": "Wenn kein Recycling oder keine Kompostierung erfolgt, kann die Menge an Abfall, der auf Deponien landet, ansteigen, wodurch bei der Zersetzung Treibhausgase entstehen"
+            }
+        ],
+        "wakeup": "Pour lutter contre le changement climatique, il est important de prendre conscience de ces habitudes et de chercher des moyens de les modifier pour réduire notre impact environnemental. Cela peut inclure des actions telles que l'utilisation des transports en commun, la réduction de la consommation de viande, le recyclage, l'achat de produits durables, et la réduction du gaspillage d'énergie et d'eau."
+
+    }
+}

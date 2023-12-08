@@ -1,0 +1,41 @@
+{
+    "translation": {
+        "welcome": "Ciao a tutti",
+        "fact": [
+            {
+                "title": "Utilizzo di veicoli a benzina o diesel",
+                "description": "La guida di veicoli che utilizzano combustibili fossili è una delle principali fonti di emissioni di gas serra, in particolare di CO2."
+            },
+            {
+                "title": "Consumo energetico eccessivo",
+                "description": "L’uso eccessivo di elettricità nelle case, in particolare per il riscaldamento e il raffreddamento, contribuisce a un consumo energetico significativo. Ciò è particolarmente problematico se l’elettricità viene prodotta da combustibili fossili."
+            },
+            {
+                "title": "Spreco di cibo",
+                "description": "Lo spreco alimentare non è solo un problema di gestione dei rifiuti, ma anche una fonte di gas serra, soprattutto quando il cibo si decompone nelle discariche."
+            },
+            {
+                "title": "Consumo di carne rossa",
+                "description": "L’allevamento del bestiame, in particolare per la carne rossa, contribuisce in modo determinante alle emissioni di metano, un potente gas serra. L’allevamento del bestiame richiede anche grandi quantità di terra, acqua ed energia"
+            },
+            {
+                "title": "Utilizzo di plastica monouso",
+                "description": "La produzione e lo smaltimento della plastica, soprattutto quella monouso, richiede molta energia e contribuisce all’inquinamento ambientale"
+            },
+            {
+                "title": "Cattivo utilizzo delle risorse idriche",
+                "description": "Un uso inefficiente dell’acqua, come fare lunghe docce o lasciare scorrere l’acqua inutilmente, può aumentare la domanda di energia per il trattamento e il trasporto dell’acqua"
+            },
+            {
+                "title": "Acquisti insostenibili ",
+                "description": "L’acquisto di prodotti con una durata di vita breve o fabbricati in modo non sostenibile contribuisce ad aumentare l’impronta di carbonio, a causa della produzione, del trasporto e dello smaltimento dei prodotti"
+            },
+            {
+                "title": "Non riciclaggio",
+                "description": "Il mancato riciclaggio o il compostaggio possono aumentare la quantità di rifiuti inviati in discarica, che genera gas serra quando si decompone."
+            }
+        ],
+        "wakeup": "Pour lutter contre le changement climatique, il est important de prendre conscience de ces habitudes et de chercher des moyens de les modifier pour réduire notre impact environnemental. Cela peut inclure des actions telles que l'utilisation des transports en commun, la réduction de la consommation de viande, le recyclage, l'achat de produits durables, et la réduction du gaspillage d'énergie et d'eau."
+
+    }
+}
