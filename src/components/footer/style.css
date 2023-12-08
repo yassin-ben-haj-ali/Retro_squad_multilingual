@@ -1,0 +1,21 @@
+.footer-title{
+    text-align: center;
+    font-size: large;
+}
+
+.footer-content {
+    display: flex;
+}
+.footer-content{
+    width: 480px;
+    padding: 3%;
+    margin-left: 30%;
+}
+
+.message{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 3%;
+
+}

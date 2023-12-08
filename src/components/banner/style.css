@@ -1,0 +1,72 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+    color:#000;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.content{
+    display: flex;
+}
+
+.select-design{
+    position: absolute;
+    right: 20px;
+    margin: 20px;
+}
+
+.earth-img img {
+    margin-top: 10%;
+    width:400px;
+    animation: slideleft 3s forwards;
+} 
+
+.banner-def{
+    margin-bottom: 120px;
+    margin-left: 200px;
+}
+
+.content h1{
+    font-size: 70px;
+    font-weight: 150;
+    margin-top: 20%;
+    opacity: 0;
+    text-align: left;
+    margin-left: 200px;
+    color: #09253a;
+}
+.content p{
+    max-width: 500px;
+    font-weight: 200;
+    line-height: 28px;
+    opacity: 0;
+}
+
+
+.slide-left{
+    animation: slideleft 1s forwards;
+}
+@keyframes slideleft {
+    0%{
+        transform: translate(100px);
+        opacity: 0;
+    }
+    100%{
+        transform: translate(0px);
+        opacity: 1;
+    }
+}
+p.slide-left{
+    animation-delay: 2s;
+
+}
+.links.slide-left{
+    animation-delay: 3s;
+
+}

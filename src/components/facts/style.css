@@ -1,0 +1,21 @@
+.container{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+
+.fact-container{
+    margin: 2%;
+    background-color: white;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 40px;
+}
+
+.fact-title{
+    color:#0052FF;
+    margin-bottom:  2%;
+}

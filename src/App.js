@@ -10,13 +10,16 @@ import Turkish from "./translation/tr.json";
 import Arabe from "./translation/ar.json";
 
 import { useTranslation } from 'react-i18next';
+import { Banner } from './components/banner';
+import { Facts } from './components/facts';
+import { Footer } from './components/footer';
 function App() {
   const { t, i18n } = useTranslation();
   const [locale, setLocale] = useState('en');
   const [lang, setLang] = useState(English);
   const changeLang = getLang => {
-    setLocale(getLang.target.value);
     i18n.changeLanguage(getLang.target.value);
+    setLocale(getLang.target.value);
     switch (getLang) {
       case 'en':
         setLang(English)
@@ -52,28 +55,9 @@ function App() {
   return (
 
     <div className="App">
-      <select name="pets" id="pet-select" onChange={changeLang}>
-        <option value="">--Please choose an option--</option>
-        <option value="en">English</option>
-        <option value="fr">French</option>
-        <option value="es">Spanish</option>
-        <option value="de">German</option>
-        <option value="it">Italy</option>
-        <option value="hi">Hindi</option>
-        <option value="ar">Arabe</option>
-        <option value="tr">Turkish</option>
-      </select>
-      <div>
-        {lang.translation.fact.map((item, key) => (
-          <div>
-            <h1>{item.title}</h1>
-            <h1>{item.description}</h1>
-          </div>
-        ))}
-
-
-      </div>
-      <h1>{t('wakeup')}</h1>
+      <Banner />
+      <Facts />
+      <Footer />
     </div>
   );
 }
