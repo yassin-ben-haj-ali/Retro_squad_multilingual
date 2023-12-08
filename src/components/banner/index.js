@@ -5,7 +5,7 @@ import Erth from '../../img/Erth.svg'
 export const Banner = () => {
   return (
     <>
-    <select name="pets" id="pet-select" className='select-design' >
+    {/* <select name="pets" id="pet-select" className='select-design' >
         <option value="">--Please choose an option--</option>
         <option value="en">English</option>
         <option value="fr">French</option>
@@ -17,7 +17,7 @@ export const Banner = () => {
         <option value="ja">Japanese</option>
         <option value="hi">Hindi</option>
         <option value="tr">Turkish</option>
-      </select>
+      </select> */}
     <div className='content'>
       
         <div class="banner">
